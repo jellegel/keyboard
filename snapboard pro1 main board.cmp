@@ -1,0 +1,531 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-11-22T17:26:27
+
+BeginCmp
+TimeStamp = 86a57589-6c0e-4ad0-95f9-437f4be22149
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = d534a14b-9800-41ca-8e7a-8072ff3185b1
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c0c722b-ae1a-45fe-8efb-73d0bdfc83f3
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6c82c815-b7be-4726-8739-5c1feed7feee
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = b5483e24-3fc4-4fd0-b618-2eb5ebae5e00
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a042b03-0340-43eb-9fbc-6d1d58fec76e
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 82d00b21-5874-4dd3-9844-7a174c57d46e
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1b1ac127-7a43-404c-b3e7-c2fec135fa8d
+Path = 
+Reference = REF**;
+ValeurCmp = Stabilizer_MX_2.00u;
+IdModule  = ScottoKeebs_Stabilizer:Stabilizer_MX_2.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 81f0841e-8174-4d0f-b882-cb7a3ad70980
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f0ab259-6eca-471d-88a3-9f649a78673c
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 70ab3814-d50e-4ae6-8101-28dae6fca6c6
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 5662771b-ca3c-4bd6-b429-9a4c9fd6284c
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b4c5614-4727-4841-a4e1-792ea4fbda66
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 76473418-fd83-4642-aef1-e62cecedabe9
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2650a471-a508-4cf3-9f3a-3f201c2fb79c
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 518c9dfa-6c26-4d11-804d-c1082f7a4dce
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_2.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_2.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 035f0f2c-777b-4ebf-ba6a-c7f4a287a35b
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0653835c-dfd6-485a-8a76-46eb3e4ec2a0
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b0c94eb-f618-4fad-9398-3768aeaee856
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1b0aa7e2-e491-4ca0-b340-427b6becf39a
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = d10c1701-680b-4ad2-904e-a1bc5555d393
+Path = 
+Reference = REF**;
+ValeurCmp = Stabilizer_MX_6.25u;
+IdModule  = ScottoKeebs_Stabilizer:Stabilizer_MX_6.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bad4689-c7c7-4f9f-af47-d1672a249a11
+Path = 
+Reference = REF**;
+ValeurCmp = Stabilizer_MX_2.00u;
+IdModule  = ScottoKeebs_Stabilizer:Stabilizer_MX_2.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 081d4cee-fe78-4805-a5af-60cd7bae1084
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fd447f6-30fd-4174-95e0-c75ae83add5c
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = e7867105-aa11-4b12-8938-fe4cf0b4ad89
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_2.75u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_2.75u;
+EndCmp
+
+BeginCmp
+TimeStamp = fe2fdf2f-a365-42fa-94c2-6df3147d270d
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 22bd8133-1e1c-4a8d-879a-1a8242b3c382
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f8d10b6-b328-4f64-9f4d-edc58a6591a7
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a59eabaf-3710-4da1-bb7b-6ad4826f3520
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e62b5cd-e95b-47f2-8d80-95fc7c2407bc
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 360be022-2241-4d18-b8dc-e460bcf912dd
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f508f27-ec8c-451e-abdb-cf6573944069
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a91d9b75-da88-4f89-822e-c8b1e067a6e9
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 323e4c4d-1cb6-477c-89ca-6d15607267b5
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 42b91759-8a9e-47fe-ae4a-7e4061d61f47
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.50u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = 45e37c53-951a-4f1c-a5d5-7535dbeac9fd
+Path = 
+Reference = REF**;
+ValeurCmp = Stabilizer_MX_2.00u;
+IdModule  = ScottoKeebs_Stabilizer:Stabilizer_MX_2.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4383d1a4-94df-4774-a967-5aed6bc1e661
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 56d6ee62-e3cc-4054-9b20-8dbf2c61c4af
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 531493a7-7280-4610-b6df-58161aaaee5b
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 5bad6e66-c7ea-42b7-8e5f-999b6e03d453
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 584e78ea-d899-4523-babf-4688f7febd19
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6327181f-8422-4460-90a0-cacda41a0772
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 61ef2f7a-6847-427b-a24f-782f3bcf68f1
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 62d57748-673e-4438-ad19-0b747c3302ed
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = e096d208-63f0-4f96-a669-60f3f67fdecc
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_2.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_2.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6acafb8b-3337-49fe-a501-955275b4f4b4
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_2.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_2.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = cc7016c3-a83a-489e-b023-82710514bb72
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_6.25u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_6.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 636b743f-d51a-4b4a-b4c8-9eb0e0e4f2aa
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9ea86292-24fc-4cca-93b6-f4ffbf16ac5f
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = bb62e6c2-01eb-4584-9579-f9eab2de59e9
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9a4f483f-2e2e-4044-8e6c-93d64ec8ec6b
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9dc09214-1a55-40dc-b1db-640a25a060a7
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = b033d174-2468-4e17-b60d-62b219c8a075
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = addde89c-2662-48b2-be82-8ac2238b57ef
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = bb7a591c-5a40-474c-8f3c-c2a66f3aeb37
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e5eba750-4cf3-45b5-820a-bc18a5409c8b
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = f34ba0c4-1f63-4326-bc19-b709115dfbaf
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = d833e446-968b-4a01-8b5d-3219fa83e5d7
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.75u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.75u;
+EndCmp
+
+BeginCmp
+TimeStamp = d2b84c3c-6bcc-4f01-85ed-08c73101f71a
+Path = 
+Reference = REF**;
+ValeurCmp = Stabilizer_MX_2.00u;
+IdModule  = ScottoKeebs_Stabilizer:Stabilizer_MX_2.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = eda6abaf-5fb6-4b96-8bd4-8c45fddb0cc0
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e1c3e66a-7dd2-48a0-8617-88c23309df3c
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e2c5309a-7933-4fb6-b793-a84f49cc63f5
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e4e48f09-1724-4958-86f5-9c9b7e9aaa22
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = f8675594-803c-4784-b4a3-e1fd34cadea9
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.50u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = ec407861-e9ee-4e19-82a3-d96549c82ad2
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = fd6f578f-998c-42d2-a6c4-1788f85a7946
+Path = 
+Reference = REF**;
+ValeurCmp = Hotswap_MX_1.00u;
+IdModule  = ScottoKeebs_Hotswap:Hotswap_MX_1.00u;
+EndCmp
+
+EndListe
